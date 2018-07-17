@@ -2,7 +2,7 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
   <file source-language="de-DE" datatype="plaintext" original="ng2.template">
     <body>
-      <trans-unit id="introductionHeader" datatype="html">
+      <trans-unit id="cpc-campaigns.add" datatype="html">
         <source>Translate me</source>
         <target>  Oversaet mig</target>
         <context-group purpose="location">
@@ -10,7 +10,7 @@
           <context context-type="linenumber">3</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="selectLanguage" datatype="html">
+      <trans-unit id="navigation.affiliate.cpcCampaigns" datatype="html">
         <source>
           Select Language
         </source>
